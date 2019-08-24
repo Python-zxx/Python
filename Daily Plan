@@ -5,6 +5,9 @@
 python入门到实践 第一章
 PYTHON BASE02
 LeetCode刷题巩固
+www.runoob.com
+docs.python.org/zh-cn/3/
+www.pythontab.com
 
 
 2019.8.21
@@ -37,6 +40,7 @@ English：
                 Recording errors and understand
         Listening(WeChat)
                 complete 3 times a day
+                听抄练习  每天3句
         Workbook for CET-6
                 2 units a day(Monday to Friday)
         examination paper（Nearly ten years）
@@ -51,6 +55,7 @@ Opencv：
 Machine Learning：
         NLTK基础教程-用NLTK和Python库构建机器学习应用
         Hands-on Machine Learning
+        Python机器学习基础教程
 Deep Learning：
         动手学深度学习
 data structure：
@@ -93,10 +98,12 @@ English：
         Daily Video                     入门听力         
         English words                   stage18,passage7,passage8,list1    √
         Daily homework（WeChat)         6.19+8.24       
-        Listening(WeChat)               unit10,11,12       
+        Listening(WeChat)               unit10,11,12   听抄练习（1,2,3）    
         Workbook for CET-6              unit5,6          
 Python:
         Daily video                     函数（2）        
         Python编程：从入门到实践(第三章)                   √ 
 data structure：
         video                           
+machine learning：
+        Python机器学习基础教程（第一章）
